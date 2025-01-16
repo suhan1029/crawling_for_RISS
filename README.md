@@ -1,6 +1,6 @@
 # crawling_for_RISS
 
-- 3개 파일 다 다운받으시면 됩니다. (수정된 것은 riss_crawl.ipynb 입니다.)
+- README를 제외한 4개 파일 다 다운받으시면 됩니다. (추가된 것은 data_concat.ipynb 입니다.)
 
 - 2015~2024년의 논문을 수집하도록 하였습니다.
 
